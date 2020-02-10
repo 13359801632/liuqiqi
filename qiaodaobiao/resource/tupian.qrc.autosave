@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/tupian">
+        <file>0137497lqcljl3c7zc5ecw.jpg</file>
+        <file>tupian.qrc</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
